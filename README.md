@@ -13,6 +13,15 @@ Salomos is a voice assistant for the company's operational activities. Works in 
 ![_a5608541-54df-42de-80bd-a0e72a297429](https://github.com/salomos-com/www/assets/5669657/fdfe07f0-9081-4bca-a8fb-0dc65f11ee72)
 
 
+
+# SQL mapping
+
+sql statement mapping to API rest service
+
++ [Create REST APIs based on SQL statements - IBM Developer](https://developer.ibm.com/tutorials/creating-rest-apis-based-on-sql-statements/)
+
+
+
 ## keywords
 
 intelligent vision system
@@ -21,3 +30,5 @@ supersystem
 supervision
 hypersystem
 smart operations
+
+
