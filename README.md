@@ -1,5 +1,7 @@
-# www
-www.salomos.com
+
+![obraz](https://github.com/salomos-com/www/assets/5669657/32a99889-f886-42e2-a84d-b95c40defcb1)
+
+# [salomos.com](http://www.salomos.com)
 
 
 Salomos - smart operations in company. 
