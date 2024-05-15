@@ -16,6 +16,39 @@ Salomos is a voice assistant for the company's operational activities. Works in 
 
 
 
+
+![obraz](https://github.com/salomos-com/www/assets/5669657/66fc2bf7-3966-4a66-b75e-3be93494bc27)
+
+
+
+
+![obraz](https://github.com/salomos-com/www/assets/5669657/b092bda6-bbf1-474d-a844-8267d5939d27)
+
+
+https://www.opslevel.com/request-a-demo
+
+[Log In - OpsLevel](https://app.opslevel.com/users/sso/sign_in)
+
+> # Build and ship high-quality software, faster
+> 
+> ## Get visibility into your entire software ecosystem
+> 
+> ## Make standards and compliance easy with built-in guardrails
+> 
+> Unblock bottlenecks with  
+> self-service tools
+
+
+![obraz](https://github.com/salomos-com/www/assets/5669657/90dffa3b-11ac-4b0a-aebf-de793520ca5e)
+
+
+
+
+![obraz](https://github.com/salomos-com/www/assets/5669657/9a3dec51-18e3-45f8-874f-92a76390eb6f)
+
+
+
+
 # SQL mapping
 
 sql statement mapping to API rest service
