@@ -51,6 +51,10 @@ https://www.opslevel.com/request-a-demo
 
 # SQL mapping
 
+```
+speech -> text -> SQL -> OPS
+```
+
 sql statement mapping to API rest service
 
 + [Create REST APIs based on SQL statements - IBM Developer](https://developer.ibm.com/tutorials/creating-rest-apis-based-on-sql-statements/)
