@@ -47,7 +47,11 @@ https://www.opslevel.com/request-a-demo
 ![obraz](https://github.com/salomos-com/www/assets/5669657/9a3dec51-18e3-45f8-874f-92a76390eb6f)
 
 
+# Use cases 
 
++ stronę www, bazy danych, stream video + głosowa obsługa voco.chat
++ Jako chat na wiki
++ chat w działach firmy
 
 # SQL mapping
 
