@@ -101,3 +101,71 @@ korzyści z asystenta, który odpowiada głosowo w oparciu o  rzeczywiste dane f
 
 tylko jak to sprzedać nie wiem, bo to jest abstrakcja dla wielu, wiec nawet jak to zaoferuje za darmo i lokalnie to nadal większośc nie będzie zainteresowana
 zastanawiam się jak dotrzeć do tych, którzy by docenili i chcieli zapłacić każdą cenę za wdrożenie tego lokalnie w ich firmie
+
+
+
+
+
+
+## Introduction to Generative AI
++ [Introduction to Generative AI - Polski | Google Cloud Skills Boost](https://www.cloudskillsboost.google/course_templates/536)
+An introductory course explaining the nature, uses, and differences of Generative AI from traditional machine learning methods.
+
+
+
+2. Generative AI Fundamentals:
+
+Earn a skill badge by demonstrating your understanding of foundational concepts in generative AI.
+
+
+
+3. Introduction to Responsible AI:
+
+Learn what Responsible AI is, why it’s essential, and how Google implements it in its products.
+
+
+
+4. Introduction to Large Language Models:
+
+This course explores what large language models are, their use cases, and how to enhance their performance.
+
+
+
+5. Introduction to Image Generation:
+
+This course introduces diffusion models, a promising family of machine learning models in the image generation space.
+
+
+
+6. Encoder-Decoder Architecture:
+
+Learn about the encoder-decoder architecture, a critical component of machine learning for sequence-to-sequence tasks.
+
+
+
+7. Attention Mechanism:
+
+This course introduces the attention mechanism, which allows neural networks to focus on specific parts of an input sequence.
+
+
+
+8. Transformer Models and BERT Model:
+
+A comprehensive introduction to the Transformer architecture and the Bidirectional Encoder Representations from the Transformers (BERT) model.
+
+
+
+
+
+9. Create Image Captioning Models:
+
+Learn how to create an image captioning model using deep learning techniques.
+
+
+
+
+[Introduction to Generative AI Studio](https://www.cloudskillsboost.google/course_templates/552/video/471559)
+
+This course introduces Generative AI Studio, a product of Vertex AI, guiding users on how to prototype and customize generative AI models.
+
+
