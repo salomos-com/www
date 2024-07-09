@@ -269,3 +269,11 @@ Learn how to create an image captioning model using deep learning techniques.
 This course introduces Generative AI Studio, a product of Vertex AI, guiding users on how to prototype and customize generative AI models.
 
 
+
+
+
+
+---
+
+‌
+
