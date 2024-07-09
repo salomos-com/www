@@ -66,6 +66,53 @@ Elevate your entrepreneurship journey with our cutting-edge Autonomous Operation
 ![_a5608541-54df-42de-80bd-a0e72a297429](https://github.com/salomos-com/www/assets/5669657/fdfe07f0-9081-4bca-a8fb-0dc65f11ee72)
 
 
+## Architektury kognitywne dla aplikacji LLM, pokazują, jak można projektować coraz bardziej zaawansowane i elastyczne systemy AI:
+
+1. LLM Call - najprostsza forma, idealna do szybkich, jednorazowych zadań.
+
+2. Chain of LLM Calls - sekwencyjne wykorzystanie LLM do bardziej złożonych zadań wymagających analizy krok po kroku.
+
+3. LLM jako Router - wykorzystuje LLM do podejmowania decyzji o wyborze odpowiednich narzędzi lub działań.
+
+4. Maszyny Stanowe - łączą predefiniowane stany z decyzjami LLM, zapewniając przewidywalność i elastyczność.
+
+5. MultiAgenci - najbardziej zaawansowana forma, pozwalająca na dużą autonomię i adaptacyjność systemu.
+
+Każda z tych architektur ma swoje zastosowania w zależności od złożoności zadania i wymaganego poziomu adaptacyjności. 
+Czy chciałbyś, żebym rozwinął któryś z tych punktów lub omówił konkretne zastosowania tych architektur?
+skontaktuj się z nami
+
+## Przykłady użycia
+
+Przykłady zastosowań dla architektur kognitywnych:
+
+1. LLM Call:
+- Prosty chatbot odpowiadający na pytania klientów
+- Generator krótkich tekstów, np. tytułów artykułów lub opisów produktów
+- Tłumacz pojedynczych zdań lub krótkich fraz
+
+2. Chain of LLM Calls:
+- System analizy sentymentu, który najpierw klasyfikuje tekst, a następnie generuje szczegółowe uzasadnienie
+- Asystent programisty, który analizuje kod, identyfikuje błędy i proponuje poprawki
+- Narzędzie do tworzenia streszczeń długich dokumentów, działające etapowo
+
+3. LLM jako Router:
+- Wirtualny asystent, który kieruje zapytania użytkowników do odpowiednich działów w firmie
+- System obsługi klienta, wybierający najlepsze rozwiązanie z bazy wiedzy
+- Inteligentny system nawigacji w aplikacji, dostosowujący interfejs do potrzeb użytkownika
+
+4. Maszyny Stanowe:
+- Interaktywny system rezerwacji biletów, prowadzący użytkownika przez kolejne etapy
+- Asystent w procesie wypełniania skomplikowanych formularzy
+- System przeprowadzający ustrukturyzowane wywiady medyczne
+
+5. Multiagenci:
+- Zaawansowany asystent badawczy, który samodzielnie wyszukuje, analizuje i syntetyzuje informacje z różnych źródeł
+- System do automatycznego rozwiązywania złożonych problemów biznesowych, uwzględniający wiele zmiennych i scenariuszy
+- Wirtualny asystent osobisty, zarządzający kalendarzem, emailami i zadaniami, podejmujący decyzje w imieniu użytkownika
+
+
+
 
 
 ![obraz](https://github.com/salomos-com/www/assets/5669657/66fc2bf7-3966-4a66-b75e-3be93494bc27)
